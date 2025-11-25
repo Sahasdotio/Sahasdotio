@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Sahas Mokashi!<br>🚀 Passionate about Machine Learning 🤖, DevOps ⚙️, and AWS ☁️.<br>🎨 Designing magic with Canva 🎨, Figma 🖌️, and Blender 🖥️.<br>💻 Coding in Java ☕, C 📘, and Python 🐍.<br>🛠️ Tinkering with Raspberry Pi 🍓 projects.<br>📚 Always learning 📖, building 🏗️, and creating cool stuff ✨!
+👋 Hey there, I'm Sahas Mokashi!<br>🚀 Passionate about AWS ☁️, Machine Learning 🤖, and DevOps ⚙️.<br>🎨 Designing magic with Canva 🎨, Figma 🖌️, and Blender 🖥️.<br>💻 Coding in Java ☕, C 📘, and Python 🐍.<br>🛠️ Tinkering with Raspberry Pi 🍓 projects.<br>📚 Always learning 📖, building 🏗️, and creating cool stuff ✨!
 
 
 # 💻 Tech Stack:
